@@ -2,11 +2,11 @@ import PageWrapper from "../components/PageWrapper";
 
 import styles from "../styles/Page.module.css";
 
-export default function Home() {
+export default function Contact() {
   return (
-    <PageWrapper title="Home">
+    <PageWrapper title="Contact">
       <div className={styles.pageContainer}>
-        <h1 className={styles.pageTitle}>Home </h1>
+        <h1 className={styles.pageTitle}>Contact</h1>
         <p className={styles.pageContent}>
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever

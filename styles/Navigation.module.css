@@ -1,0 +1,24 @@
+.navContainer {
+  width: 85%;
+  max-width: 768px;
+  margin: 0 auto 25px auto;
+  position: relative;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  padding: 25px 0;
+  border-bottom: solid 1px #eaeaea;
+}
+
+.link {
+  font-weight: 500;
+  color: #4a5568;
+  transition: all 0.3s ease;
+}
+
+.link:hover {
+  color: #171923;
+}

@@ -1,0 +1,12 @@
+.appContainer {
+  width: 85%;
+  min-height: 75vh;
+  margin: 0 auto;
+  max-width: 768px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
