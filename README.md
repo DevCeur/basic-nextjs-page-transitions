@@ -9,7 +9,7 @@ A basic page transitions example using Next Js and Framer Motion
 
 ## Live Demo
 
-A [Live Demo](https://pip.pypa.io/en/stable/) deployed via GitHub to Vercel
+A [Live Demo](https://nextjs-basic-page-transitions.vercel.app/) deployed via GitHub to Vercel
 
 ## Usage
 
